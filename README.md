@@ -1,5 +1,4 @@
-![Screenshot (1)](https://user-images.githubusercontent.com/88295649/188582045-a2eb3616-f9a4-4cf7-97e0-d9f3e1a6710b.png)
-
+![giphy](https://user-images.githubusercontent.com/88295649/188758696-60b21f97-d738-4284-bfbd-c9f9ebc6b8ca.gif)
 
 <h1 align="center">Hi 👋, I'm Haidar Akbar Adib Putra</h1>
 <h3 align="center">Someone who want learning more</h3>
