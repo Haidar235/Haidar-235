@@ -10,9 +10,11 @@
 
 - 🌱 I’m currently studying **Geophysics in Gadjah Mada Univesity**
 
-- 📫 How to reach me **haidarakbar235@gmail.com**
+- 📚 I'm interested in **science**, especially **physics** and **mathematics**
 
-- ⚡ Fun fact **I don't know😅**
+- 👨‍💻 I really want to master and find something that can be useful using **programming**
+
+- ⚡ Fun fact **I'm not sure, but sometimes I observe things around me and imagine random things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
