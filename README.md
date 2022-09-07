@@ -1,11 +1,14 @@
-![giphy](https://user-images.githubusercontent.com/88295649/188758696-60b21f97-d738-4284-bfbd-c9f9ebc6b8ca.gif)
-
+<p align="center">
+<img width="50%" height="auto" src="https://user-images.githubusercontent.com/88295649/188758696-60b21f97-d738-4284-bfbd-c9f9ebc6b8ca.gif" height="100px"/></a>
+  
 <h1 align="center">Hi 👋, I'm Haidar Akbar Adib Putra</h1>
 <h3 align="center">Someone who want learning more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidar235&label=Profile%20views&color=0e75b6&style=flat" alt="haidar235" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidar235" alt="haidar235" /></a> </p>
+
+<h2 align="left">About me:</h2>
 
 - 🌱 I’m currently studying **Geophysics in Gadjah Mada Univesity**
 
