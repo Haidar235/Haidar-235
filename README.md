@@ -31,13 +31,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidar235&show_icons=true&locale=en&layout=compact" alt="haidar235" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidar235&show_icons=true&locale=en" alt="haidar235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidar235&" alt="haidar235" /></p>
 
 <p align="center">
-<img width="50%" height="" height="100px"/></a>
+<img width="50%" height="auto" src="https://user-images.githubusercontent.com/88295649/188790519-59224105-db32-4990-9e78-48d985f2bf7b.gif" height="100px"/></a>
+
 
 
