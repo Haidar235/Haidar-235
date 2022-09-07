@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidar235&" alt="haidar235" /></p>
 
 <p align="center">
-<img width="50%" height="auto" src="https://user-images.githubusercontent.com/88295649/188790519-59224105-db32-4990-9e78-48d985f2bf7b.gif" height="100px"/></a>
+<img width="40%" height="auto" src="https://user-images.githubusercontent.com/88295649/188790519-59224105-db32-4990-9e78-48d985f2bf7b.gif" height="90px"/></a>
 
 
 
