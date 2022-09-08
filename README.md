@@ -36,7 +36,6 @@
 <a href="https://www.python.org" target="blank" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="50" /></a>
 <a href="https://www.canva.com/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva"  height="40" width="50" /></a>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidar235&show_icons=true&locale=en" alt="haidar235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidar235&" alt="haidar235" /></p>
